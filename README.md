@@ -1,7 +1,7 @@
 - 👋 Olá! Seja bemvindo, sou @andersondallmann
 - 👀 Sou interessado em conhecer novas tecnologias.
 - 🌱 Atualmente estou aprendendo sobre desenvolvimento WEB (FullStack)
-- HTML, CSS, JavaScript, Git, GitHub, Bancos de Dados MySQL
+- HTML, CSS, JavaScript, Java, Git, GitHub, MySQL
 - Formação Técnica (1999) - Técnico em Processamento de Dados
 - Graduação incompleta - Sistemas de Informação
 - 📫 Para me contatar: andersondallmann@hotmail.com
