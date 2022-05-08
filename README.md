@@ -13,10 +13,8 @@ Estou em busca de uma oportunidade!
   <li>Lógica de Programação - studying at the moment</li>  <br>
   <li>Algoritmos - studying at the moment</li>  <br>
   <li>Banco de Dados MySQL - studying at the moment</li>  <br>
-  <li>Delphi (1998)</li>  <br>
-  <li>Cobol (1997)</li>  <br>
-  <li>Pascal (1997)</li>  <br>
-  <li>Dataflex (1997)</li>  <br>
+  <li>UML - Unified Modeling Language</li>  <br>  
+  <li>Delphi (1998), Cobol (1997),Pascal (1997),Dataflex (1997)</li>  <br>
   <li>Outras HardSkills:</li>  <br>
   <li>AutoCAD - Avançado</li>  <br>
   <li>SolidWorks - Avançado</li>  <br>
