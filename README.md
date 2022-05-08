@@ -1,9 +1,11 @@
 - 👋 Olá! Seja bemvindo, sou Anderson Dallmann. Sou interessado em conhecer novas tecnologias e me considero autodidata. Atualmente estou em transição de carreira. Estou aprendendo sobre desenvolvimento WEB (FullStack) HTML, CSS, JavaScript, Java, Git, GitHub, MySQL, estou muito feliz e entusiasmado com o aprendizado.
 - Formação Técnica (1999) - Processamento de Dados
 - Graduações incompletas - Sistemas de Informação e Engenharia de produção
-Meus contatos: 📫 Email: andersondallmann@hotmail.com - 📱 Fone:+55 (49) 988923570<br>
-Discord: DallmannDev#6877<br>
+- Meus contatos: 📫 andersondallmann@hotmail.com - 📱 Fone:+55 (49) 98892-3570<br>
+- Linkdin: https://www.linkedin.com/in/anderson-dallmann-83804821/<br>
+- Discord: DallmannDev#6877<br>
 Estou em busca de uma oportunidade!
+<br>
 <h3>HardSkills:</h3>
 <ul> 
   <li>HTML, CSS, Javascript, Java - Iniciante - studying at the moment</li> <br>
@@ -23,12 +25,14 @@ Estou em busca de uma oportunidade!
 
 <h3>SoftSkills:</h3>
   <li>Liderança em projetos</li><br>
-  <li>Comunicação clara</li><br> 
+  <li>Comunicação clara e objetiva</li><br> 
   <li>Trabalho em equipe</li><br> 
   <li>Resiliência em desafios</li><br>
+  <li>Analise de problemas</li><br> 
   <li>Paciência</li><br> 
 
-  <li>📘"O conhecimento muda o mundo, somente quando aplicado!</li><br> 
+  <li>📘"O conhecimento muda o mundo, somente quando aplicado!"</li><br>
+  <li>"Achievements are the result of efforts!"</li><br>
 <!---
 andersondallmann/andersondallmann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
