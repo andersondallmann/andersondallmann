@@ -6,10 +6,7 @@ Discord: DallmannDev#6877<br>
 Estou em busca de uma oportunidade!
 <h3>HardSkills:</h3>
 <ul> 
-  <li>HTML - Iniciante - studying at the moment</li> <br>
-  <li>CSS - Iniciante - studying at the moment</li> <br>
-  <li>Javascript - Iniciante - studying at the moment</li>  <br>
-  <li>Java - Iniciante - studying at the moment</li>  <br>
+  <li>HTML, CSS, Javascript, Java - Iniciante - studying at the moment</li> <br>
   <li>Lógica de Programação - studying at the moment</li>  <br>
   <li>Algoritmos - studying at the moment</li>  <br>
   <li>Banco de Dados MySQL - studying at the moment</li>  <br>
