@@ -7,8 +7,7 @@ Estou em busca de uma oportunidade!
 <h3>HardSkills:</h3>
 <ul> 
   <li>HTML, CSS, Javascript, Java - Iniciante - studying at the moment</li> <br>
-  <li>Lógica de Programação - studying at the moment</li>  <br>
-  <li>Algoritmos - studying at the moment</li>  <br>
+  <li>Lógica de Programação  e Algoritmos- studying at the moment</li>  <br>
   <li>Banco de Dados MySQL - studying at the moment</li>  <br>
   <li>UML - Unified Modeling Language</li>  <br>  
   <li>Delphi (1998), Cobol (1997),Pascal (1997),Dataflex (1997)</li>  <br>
