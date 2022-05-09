@@ -20,6 +20,7 @@ Estou em busca de uma oportunidade!
   <li>Blender - Intermediário</li>  <br>
   <li>Autodesk 3D Max - 2022 - Intermediário</li>  <br>
   <li>Corona Renderer 7 - Intermediário</li>  <br>
+  <li>Adobe Photoshop - Básico</li>  <br>
   <li>Inglês Básico/Intermediario</li><br>
 </ul>
 
