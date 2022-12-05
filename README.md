@@ -8,9 +8,9 @@ I'm looking for an opportunity in the systems development area!
 <br>
 <h3>HardSkills:</h3>
 <ul> 
-  <li>HTML, CSS, Javascript, Java - Beginner - studying at the moment</li> <br>
-  <li>Programming Logic and Algorithms - studying at the moment</li>  <br>
-  <li>Database MySQL - studying at the moment</li>  <br>
+  <li>HTML, CSS, Javascript, Java </li> <br>
+  <li>Programming Logic and Algorithms</li>  <br>
+  <li>Database MySQL</li>  <br>
   <li>UML - Unified Modeling Language</li>  <br>  
   <li>Delphi (1998), Cobol (1997),Pascal (1997),Dataflex (1997)</li>  <br>
   <li>Others HardSkills:</li>  <br>
