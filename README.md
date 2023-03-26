@@ -1,11 +1,14 @@
-- 👋 Hey! Welcome, I'm Anderson Dallmann. I am interested in learning about new technologies and consider myself self-taught. I am currently in career transition. I'm learning about WEB development (FullStack) HTML, CSS, JavaScript, Java, Git, GitHub, MySQL, I'm very happy and excited to learn.
+- 👋 Hey! Welcome, I'm Anderson Dallmann. 
+- I am interested in about new technologies and consider myself self-taught. I am currently in career transition. 
+- I'm learning about WEB development (FullStack) HTML, CSS, JavaScript, Java, Git, GitHub, MySQL, I'm very happy and excited to learn.
 - Technical Training (1999) - Data Processing
-- Incomplete degrees - Information Systems and Production Engineering
 - Contact: 📫 andersondallmann@hotmail.com
 - Linkdin: https://www.linkedin.com/in/anderson-dallmann-83804821/<br>
 - Discord: DallmannDev#6877<br>
+
 I'm looking for an opportunity in the systems development area!
 <br>
+
 <h3>HardSkills:</h3>
 <ul> 
   <li>HTML, CSS, Javascript, Java </li>
