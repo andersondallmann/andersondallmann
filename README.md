@@ -10,7 +10,7 @@ I'm looking for an opportunity in the systems development area!
 <ul> 
   <li>HTML, CSS, Javascript, Java </li> <br>
   <li>Programming Logic and Algorithms</li>  <br>
-  <li>Database MySQL</li>  <br>
+  <li>Database MySQL</li>
   <li>UML - Unified Modeling Language</li>  <br>  
   <li>Delphi (1998), Cobol (1997),Pascal (1997),Dataflex (1997)</li>  <br>
   <li>Others HardSkills:</li>  <br>
