@@ -8,29 +8,27 @@ I'm looking for an opportunity in the systems development area!
 <br>
 <h3>HardSkills:</h3>
 <ul> 
-  <li>HTML, CSS, Javascript, Java </li> <br>
-  <li>Programming Logic and Algorithms</li>  <br>
+  <li>HTML, CSS, Javascript, Java </li>
+  <li>Programming Logic and Algorithms</li>
   <li>Database MySQL</li>
-  <li>UML - Unified Modeling Language</li>  <br>  
-  <li>Delphi (1998), Cobol (1997),Pascal (1997),Dataflex (1997)</li>  <br>
-  <li>Others HardSkills:</li>  <br>
-  <li>AutoCAD - Advanced</li>  <br>
-  <li>SolidWorks - Advanced</li>  <br>
-  <li>SolidEdge - Intermediary</li>  <br>
-  <li>Blender - Intermediary</li>  <br>
-  <li>Autodesk 3D Max - 2022 - Intermediary</li>  <br>
-  <li>Corona Renderer 7 - Intermediary</li>  <br>
-  <li>Adobe Photoshop - Basic</li>  <br>
-  <li>English Basic/Intermediary</li><br>
+  <li>UML - Unified Modeling Language</li>
+  <li>Delphi (1998), Cobol (1997),Pascal (1997),Dataflex (1997)</li>
+  <li>Others HardSkills:</li>
+  <li>AutoCAD - Advanced</li>
+  <li>SolidWorks - Advanced</li>
+  <li>Blender - Intermediary</li>
+  <li>Autodesk 3D Max - 2022 - Intermediary</li>
+  <li>Adobe Photoshop - Basic</li>
+  <li>English Basic/Intermediary</li>
 </ul>
 
 <h3>SoftSkills:</h3>
-  <li>Project leadership</li><br>
-  <li>Clear and objective communication</li><br> 
-  <li>Team work</li><br> 
-  <li>Resilience in challenges</li><br>
-  <li>Problem analysis</li><br> 
-  <li>Patience</li><br> 
+  <li>Project leadership</li>
+  <li>Clear and objective communication</li>
+  <li>Team work</li>
+  <li>Resilience in challenges</li>
+  <li>Problem analysis</li>
+  <li>Patience</li>
 
   <li>"Achievements are the result of efforts!"</li><br>
 <!---
