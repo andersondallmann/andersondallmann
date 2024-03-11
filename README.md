@@ -26,14 +26,17 @@ I'm looking for an opportunity in the systems development area!
 </ul>
 
 <h3>SoftSkills:</h3>
+<ul>
+  
   <li>Project leadership</li>
   <li>Clear and objective communication</li>
   <li>Team work</li>
   <li>Resilience in challenges</li>
   <li>Problem analysis</li>
   <li>Patience</li>
+</ul>
 
-  <li>"Achievements are the result of efforts!"</li><br>
+  "Achievements are the result of efforts!"<br>
 <!---
 andersondallmann/andersondallmann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
