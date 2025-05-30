@@ -16,12 +16,6 @@ I'm looking for an opportunity in the systems development area!
   <li>Database MySQL</li>
   <li>UML - Unified Modeling Language</li>
   <li>Delphi (1998), Cobol (1997),Pascal (1997),Dataflex (1997)</li>
-  <li>Others HardSkills:</li>
-  <li>AutoCAD - Advanced</li>
-  <li>SolidWorks - Advanced</li>
-  <li>Blender - Intermediary</li>
-  <li>Autodesk 3D Max - 2022 - Intermediary</li>
-  <li>Adobe Photoshop - Basic</li>
   <li>English Basic/Intermediary</li>
 </ul>
 
